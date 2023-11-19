@@ -74,7 +74,7 @@
       Type="Variable"
       Name="LEVEL"
       Target="LEVEL"
-      Default="world"
+      Default="FTBGenesis"
       Description="Name of the world directory.  It is usually world."
       Display="advanced"
       Required="false"
