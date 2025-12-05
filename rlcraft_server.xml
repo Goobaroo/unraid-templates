@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/115033-support-goobaroo-game-server-dockers/</Support>
   <Project>https://www.curseforge.com/minecraft/modpacks/rlcraft</Project>
-  <Overview>RLCraft 1.12.2 - Release v2.9 Modded Minecraft Server[br][br][b]RLCraft 1.12.2 - Release v2.9[/b][br]A modpack specially designed to bring an incredibly hardcore and semi-realism challenge revolving around survival, RPG elements, and adventure-like exploration.[br]Version tags available:[br] - 2.9.3[br] - 2.9.2d[br] - 2.9.2c[br] - 2.9.2[br] - 2.9.1c[br] - 2.9[br][br][br]Setup:[br][li]You must accept the EULA by setting the [b]EULA[/b] variable to [span style='color: #00E800;']true[/span] or the install will fail.[br]Optional:[br][li]You can setup a comma separated list of players who will have admin privileges in game by setting [b]OPS[/b]</Overview>
+  <Overview>RLCraft 1.12.2 - Release v2.9.3 Modded Minecraft Server[br][br][b]RLCraft 1.12.2 - Release v2.9.3[/b][br]A modpack specially designed to bring an incredibly hardcore and semi-realism challenge revolving around survival, RPG elements, and adventure-like exploration.[br]Version tags available:[br] - 2.9.3[br] - 2.9.2d[br] - 2.9.2c[br] - 2.9.2[br] - 2.9.1c[br] - 2.9[br][br][br]Setup:[br][li]You must accept the EULA by setting the [b]EULA[/b] variable to [span style='color: #00E800;']true[/span] or the install will fail.[br]Optional:[br][li]You can setup a comma separated list of players who will have admin privileges in game by setting [b]OPS[/b]</Overview>
   <Category>GameServers:</Category>
   <ExtraSearchTerms>minecraft</ExtraSearchTerms>
   <Icon>https://media.forgecdn.net/avatars/468/243/637751369169569212.png</Icon>
