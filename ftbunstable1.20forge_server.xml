@@ -12,7 +12,7 @@
   <Overview>FTB Unstable 1.20: Forge Modded Minecraft Server[br][br][b]FTB Unstable 1.20: Forge[/b][br]Experience the cutting-edge of Modded Minecraft in Unstable 1.20!! Forge Edition![br]Version tags available:[br] - 1.5.0[br][br][br]Setup:[br][li]You must accept the EULA by setting the [b]EULA[/b] variable to [span style='color: #00E800;']true[/span] or the install will fail.[br]Optional:[br][li]You can setup a comma separated list of players who will have admin privileges in game by setting [b]OPS[/b]</Overview>
   <Category>GameServers:</Category>
   <ExtraSearchTerms>minecraft</ExtraSearchTerms>
-  <Icon>https://apps.modpacks.ch/modpacks/art/104/unstableforge512x512.png</Icon>
+  <Icon>https://cdn.feed-the-beast.com/blob/be/be5012594f6922fc863978827bf9a09342d03d3df4f3c653072207d3d42ff81f.png</Icon>
   <Labels/>
   <Config
       Type="Path"
