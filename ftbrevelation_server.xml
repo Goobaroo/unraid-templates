@@ -12,7 +12,7 @@
   <Overview>FTB Revelation Modded Minecraft Server[br][br][b]FTB Revelation[/b][br]Revelation is a general all-purpose modpack with optimal FPS, server performance and stability.[br]Version tags available:[br] - 3.7.0[br] - 3.6.0[br][br][br]Setup:[br][li]You must accept the EULA by setting the [b]EULA[/b] variable to [span style='color: #00E800;']true[/span] or the install will fail.[br]Optional:[br][li]You can setup a comma separated list of players who will have admin privileges in game by setting [b]OPS[/b]</Overview>
   <Category>GameServers:</Category>
   <ExtraSearchTerms>minecraft</ExtraSearchTerms>
-  <Icon>https://apps.modpacks.ch/modpacks/art/7/revelation.png</Icon>
+  <Icon>https://cdn.feed-the-beast.com/blob/55/5580d403cda892c044d771fa2f1da6295478883f70ae3075e085a9ba317f4e76.png</Icon>
   <Labels/>
   <Config
       Type="Path"
